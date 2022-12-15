@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/* teklik ciftlik kontrolu */
 int main()
 {
 	int a;
