@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+/* iki sayinin toplami */
 
 int main()
 {
